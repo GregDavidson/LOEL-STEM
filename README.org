@@ -1,0 +1,14 @@
+* LOEL - Science, Technology, Engineering, Pattern Play
+
+This repository is part of the [[https://github.com/GregDavidson/loel][League of Extraordinary Learners]].
+
+This repository will hold LOEL curricula materials for the Cognitive Sciences
+according to the LOEL process for [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Creating and Developing LOEL Curricula]].
+
+We are currently assembling resources on
+- Science
+- Technology
+- Engineering
+- Pattern Play <--> Mathematics
+
+Would you like to participate?
